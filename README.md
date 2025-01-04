@@ -44,9 +44,9 @@ It showcases the trend of Sales and Profit for each month, the Category-wise Pro
 
 [Download The File](https://github.com/guunnn/E-Commerce-Sales-Analysis-Excel-PowerBI-/blob/main/1_Ecommerce%20Business%20Dashboard.pbix)) and Open In Power BI Desktop for Interactive Viewing.
 
- [View Screenshots]() of the Dashboard in PDF format.
+ [View Screenshots](https://github.com/guunnn/E-Commerce-Sales-Analysis-Excel-PowerBI-/tree/main/dashboard%20and%20Excel%20analysis%20photos) of the Dashboard in PDF format.
  
-   [View Photos](https://github.com/SarangGami/E-Commerce-Sales-Analysis-Excel-PowerBI/tree/main/dashboard%20and%20Excel%20analysis%20photos) of Dashboard and excel analysis.
+   [View Photos]() of Dashboard and excel analysis.
 
   
 **Note:** The PowerBI online publishing link isn't available right now because of subscription issues. I'll add that online link soon, so anyone can open it and interact with it.
