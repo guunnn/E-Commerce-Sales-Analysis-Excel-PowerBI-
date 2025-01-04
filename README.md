@@ -35,8 +35,7 @@ This Excel project showcases the key performance metrics and trends of an E-comm
 
 (8) What recommendations can be provided to improve the overall profit of the company, considering the category and sub-category performance in terms of sales, profit, and profit margins?
 
-[Access visual representations](https://github.com/SarangGami/E-Commerce-Sales-Analysis-Excel-PowerBI/blob/main/2.Data%20Analysis%20in%20Excel.pdf) of the Excel analysis in PDF format for a comprehensive understanding of the insights and findings.
-
+[Access visual representations](https://github.com/guunnn/E-Commerce-Sales-Analysis-Excel-PowerBI-/blob/main/2.Data%20Analysis%20in%20Excel.pdf)of the Excel analysis in PDF format for a comprehensive understanding of the insights and findings.
 
 ## **Power BI Dashboard Visualization**
 
